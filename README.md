@@ -1,4 +1,4 @@
-# CRUD Application Using REST API
+# Ventillator Management Web Application Using REST API to perform simple CRUD Operations
 
 
-## By Prathyush Taneti
+## By Mohammad Asaduddin
